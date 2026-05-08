@@ -4,6 +4,14 @@
 
 ---
 
+## 🎬 Demonstration Video
+
+| Title | Platform | Link |
+|-------|----------|------|
+| HireSync AI — Full Dashboard Walkthrough | Google Drive | [▶️ Watch Demo Video](https://drive.google.com/file/d/1FJbZrpsE_UvVSawEe61ddy3ORC8ws50n/view?usp=sharing) |
+
+---
+
 ## 📊 Dashboard Pages
 
 | Page | Title | Key Visuals |
