@@ -4,17 +4,6 @@
 
 ---
 
-## 📂 Project Files
-
-| File | Link |
-|------|------|
-| HireSync.xlsx | [📊 Open Dataset](./HireSync.xlsx) |
-| DV_PROJECT.pbix | [📈 Open Power BI File](./DV_PROJECT.pbix) |
-| DV_Power_BI_Report.pdf | [📄 Open Report PDF](./DV_Power_BI_Report.pdf) |
-| DV_Mini_Project_-_Report.pdf | [📝 Open Project Report](./DV_Mini_Project_-_Report.pdf) |
-
----
-
 ## 📊 Dashboard Pages
 
 | Page | Title | Key Visuals |
