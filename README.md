@@ -8,10 +8,10 @@
 
 | File | Description | Open |
 |------|-------------|------|
-| `HireSync.xlsx` | Raw candidate dataset — 100 records, 12 attributes | [📊 Open Dataset](./HireSync.xlsx) |
-| `DV_PROJECT.pbix` | Power BI report file (interactive dashboard) | [📈 Open Power BI File](./DV_PROJECT.pbix) |
-| `DV_Power_BI_Report.pdf` | Exported PDF of all 3 dashboard pages | [📄 Open Report PDF](./DV_Power_BI_Report.pdf) |
-| `DV_Mini_Project_-_Report.pdf` | Full project documentation & methodology | [📝 Open Project Report](./DV_Mini_Project_-_Report.pdf) |
+| `HireSync.xlsx` | Raw candidate dataset — 100 records, 12 attributes | (./HireSync.xlsx) |
+| `DV_PROJECT.pbix` | Power BI report file (interactive dashboard) | (./DV_PROJECT.pbix) |
+| `DV_Power_BI_Report.pdf` | Exported PDF of all 3 dashboard pages | (./DV_Power_BI_Report.pdf) |
+| `DV_Mini_Project_-_Report.pdf` | Full project documentation & methodology | (./DV_Mini_Project_-_Report.pdf) |
 
 ---
 
@@ -102,16 +102,5 @@ Star Schema
 | 3 | **Hiring Freeze Signal** | ~25 hires/year in 2024–25, sharp drop in 2026 (possible freeze or incomplete YTD data) |
 | 4 | **Budget Optimisation** | $4M gap between expected and offered salaries — strong negotiation outcomes for the org |
 | 5 | **Engineering Cost Risk** | Engineering has the most hires (30) and the widest salary gap — must inform future planning |
-
----
-
-## 📂 Project Files
-
-| File | Link |
-|------|------|
-| HireSync.xlsx | [📊 Open Dataset](./HireSync.xlsx) |
-| DV_PROJECT.pbix | [📈 Open Power BI File](./DV_PROJECT.pbix) |
-| DV_Power_BI_Report.pdf | [📄 Open Report PDF](./DV_Power_BI_Report.pdf) |
-| DV_Mini_Project_-_Report.pdf | [📝 Open Project Report](./DV_Mini_Project_-_Report.pdf) |
 
 ---
