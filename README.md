@@ -6,12 +6,12 @@
 
 ## 📂 Project Files
 
-| File | Description | Open |
-|------|-------------|------|
-| `HireSync.xlsx` | Raw candidate dataset — 100 records, 12 attributes | (./HireSync.xlsx) |
-| `DV_PROJECT.pbix` | Power BI report file (interactive dashboard) | (./DV_PROJECT.pbix) |
-| `DV_Power_BI_Report.pdf` | Exported PDF of all 3 dashboard pages | (./DV_Power_BI_Report.pdf) |
-| `DV_Mini_Project_-_Report.pdf` | Full project documentation & methodology | (./DV_Mini_Project_-_Report.pdf) |
+| File | Link |
+|------|------|
+| HireSync.xlsx | [📊 Open Dataset](./HireSync.xlsx) |
+| DV_PROJECT.pbix | [📈 Open Power BI File](./DV_PROJECT.pbix) |
+| DV_Power_BI_Report.pdf | [📄 Open Report PDF](./DV_Power_BI_Report.pdf) |
+| DV_Mini_Project_-_Report.pdf | [📝 Open Project Report](./DV_Mini_Project_-_Report.pdf) |
 
 ---
 
